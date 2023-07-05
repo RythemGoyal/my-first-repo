@@ -1,2 +1,3 @@
 # my-first-repo
-Practice account to learn git
+Practice account to learn git and github
+
